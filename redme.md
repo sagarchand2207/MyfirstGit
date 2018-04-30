@@ -1,2 +1,2 @@
-1. My app
-2. Me learning git
+my app
+learning git
